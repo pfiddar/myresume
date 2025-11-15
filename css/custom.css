@@ -11,3 +11,7 @@
     object-fit: cover;
     object-position: 50% 50%;
 }
+
+.bg-darker{
+    background-color: #272727;
+}
