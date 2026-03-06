@@ -50,3 +50,8 @@
     transform: rotate(0deg); /* Kembali ke posisi awal, siap mengulang */
   }
 }
+
+.text-sm {
+  font-size: 7pt;
+  opacity: calc(80%);
+}
